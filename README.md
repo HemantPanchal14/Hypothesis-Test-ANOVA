@@ -15,7 +15,7 @@ Learning ANOVA Analysis
 #DRUG B = 6 8 4 5 4 6 5 8 6
 #DRUG C = 6 7 6 6 7 5 6 5 5
 
-# Here, we have to compare whether all three medicine giving same effect of not
+# Here, we have to compare whether all three medicine giving same effect or not
 #If'MEAN' is same i.e. means all three medicine are effective
 #If'MEAN' is different i.e. means out of three only one or two medicine is effective.
 
